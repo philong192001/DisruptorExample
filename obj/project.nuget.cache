@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "nu2Uo67RHhmuzzsFODYBxAX+tHWMgdWcYPi+O4RC9+nTxcLW5tzDig5Tqt1sKyrWUNEmZFFaK/fZGZeIHKCr8w==",
+  "success": true,
+  "projectFilePath": "E:\\MicroServices\\Ring\\TestDisruptor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LONGPV\\.nuget\\packages\\disruptor\\4.0.0\\disruptor.4.0.0.nupkg.sha512",
+    "C:\\Users\\LONGPV\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devops/APP-BDRD/InternalNuGet/_packaging/NgocTH/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
